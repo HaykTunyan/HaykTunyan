@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Hayk Tunyan</h1>
+<h1 align="center">Hi everyone 👋, I'm Hayk Tunyan</h1>
 <h3 align="center">A passionate frontend developer from Armenia</h3>
 
 <img align="right" alt="Coding" width="300" hight="300" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/tunyanhayk" target="blank"><img src="https://img.shields.io/twitter/follow/tunyanhayk?logo=twitter&style=for-the-badge" alt="tunyanhayk" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Node JS** and **Python** 
 
 - 📫 How to reach me **hayktunyan1994@gmail.com**
 
