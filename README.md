@@ -7,9 +7,7 @@
 
 
 <p style="margin-top 20px;"></p> 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hayktunyan&label=Profile%20views&color=0e75b6&style=flat" alt="hayktunyan" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayktunyan&label=Profile%20views&color=0e75b6&style=flat" alt="hayktunyan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tunyanhayk" target="blank"><img src="https://img.shields.io/twitter/follow/tunyanhayk?logo=twitter&style=for-the-badge" alt="tunyanhayk" /></a> </p>
 
