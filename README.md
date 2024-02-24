@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi everyone 👋, I'm Hayk Tunyan</h1>
-<h3 align="center">A passionate Front End Engineer from Armenia</h3>
+<h3 align="center">A am Front End Engineer</h3>
 
 <img align="right" alt="Coding" width="300" hight="300" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
 
