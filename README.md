@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **hayktunyan1994@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 
