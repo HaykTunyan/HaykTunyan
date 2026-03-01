@@ -54,14 +54,14 @@
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
+    <!-- <tr>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=hayktunyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195px" />
       </td>
       <td align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayktunyan&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayktunyan&theme=tokyonight&hide_border=true" width="100%" />
