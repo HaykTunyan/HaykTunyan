@@ -53,13 +53,13 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hayktunyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=hayktunyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195px" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayktunyan&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayktunyan&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
       </td>
     </tr>
     <tr>
