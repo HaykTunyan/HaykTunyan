@@ -38,7 +38,7 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `JavaScript` `TypeScript` `Python` `HTML5` `CSS3` |
-| **Frontend** | `React` `Next.js` `Angular` `Redux` |
+| **Frontend** | `React` `Next.js` `Angular` `Vue` `Redux` |
 | **Mobile** | `React Native` |
 | **Backend** | `Node.js` `Express` |
 
