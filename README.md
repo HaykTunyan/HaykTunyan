@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hayk%20Tunyan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  <h3>🚀 Full-Stack Software Engineer</h3>
+  <h3>🚀  Software Engineer</h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/hayk-tunyan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
