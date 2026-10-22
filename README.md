@@ -24,7 +24,7 @@
   <tr>
     <td width="60%" valign="top">
 
-I'm a passionate <b>Software Engineer</b> with 7+ years of experience building high-performance web and mobile applications.
+I'm a passionate <b>Software Engineer</b> with 8 years of experience building high-performance web and mobile applications.
 
 I specialize in modern JavaScript ecosystems, scalable frontend architecture, cross-platform development, and backend services.
 
@@ -40,10 +40,7 @@ I specialize in modern JavaScript ecosystems, scalable frontend architecture, cr
   <li>🎯 Goal: To build products that impact millions of users</li>
 </ul>
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="250" style="border-radius: 10px;" />
-    </td>
+
   </tr>
 </table>
 
