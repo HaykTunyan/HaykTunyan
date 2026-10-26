@@ -109,15 +109,7 @@ AI-powered travel companion for discovering **Syunik, Armenia**.
 
 ---
 
-#### 📸 360 Photo Cam
 
-A React Native mobile application focused on creating an immersive **360° photo experience**.
-
-**Tech:** React Native • iOS • Core Motion • Gyroscope • DeviceMotion
-
-The application uses device motion and sensor data to create an interactive 3D camera experience.
-
----
 
 ### 📊 Performance Metrics
 
